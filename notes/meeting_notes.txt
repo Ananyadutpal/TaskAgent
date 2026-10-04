@@ -1,0 +1,5 @@
+Project meeting - 3 Oct
+- Demo is planned for Oct 20
+- Rahul will finish the frontend by Oct 12
+- I need to write the evaluation script and README
+- Next meeting on Oct 10 at 5 PM

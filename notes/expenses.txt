@@ -1,0 +1,9 @@
+September expenses
+2026-09-02 food 450
+2026-09-05 transport 120
+2026-09-09 food 380
+2026-09-14 books 900
+2026-09-18 food 520
+2026-09-21 transport 200
+2026-09-27 entertainment 600
+Monthly budget: 4000
